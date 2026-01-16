@@ -1,7 +1,6 @@
 ﻿using EmployeeAPI.Repository;
 using EmployeeAPI.ViewModels;
 using EmployeeAPItask.Models;
-using EmployeeAPItask.Servies;
 
 namespace EmployeeAPI.Services
 {
